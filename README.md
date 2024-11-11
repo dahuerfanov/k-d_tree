@@ -11,7 +11,7 @@ In this task, you will implement a nearest-neighbour search in euclidean space u
 
 The following tools must be installed in your Linux system:
 
-1. The GCC compiler
+1. The GCC compiler: `g++ -std=c++17`
 2. CMake `>=3.10`
 
 ### Build the project
